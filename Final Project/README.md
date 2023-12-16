@@ -2,8 +2,5 @@
 **Name: Erik Nguyen**
 
 
-## Time Series Processing Flow
-
-The high-level diagram shows the processing of past 7 days information as the model input, and day information as model output.
-
-![alt text](https://github.com/ErikNguyen20/CPSC-481-Assignments/blob/main/Final/data_processing_flow.png)
+## Poster Link
+https://docs.google.com/presentation/d/1oeXEioe_IegP3CejMgEKH9WKR7SkyZ2F/edit?usp=sharing&ouid=107380896299844201885&rtpof=true&sd=true
